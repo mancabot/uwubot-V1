@@ -7,7 +7,7 @@
 
 
 <p align="center">
-<a href="#"><img title="NURULGRILS" src="https://img.shields.io/badge/NURULgreen?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="mancabot" src="https://img.shields.io/badge/mancabotgreen?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
 <a href="https://github.com/mancabot"><img title="Author" src="https://img.shields.io/badge/AUTHOR-NURULorange.svg?style=for-the-badge&logo=github"></a>
